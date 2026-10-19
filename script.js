@@ -12,9 +12,9 @@ const CONFIG={
  ],
 skillGroups:[
   {label:"Languages",items:["Python","SQL","Java (basic)","HTML","CSS","JavaScript"]},
-  {label:"Database",items:["MySQL","PostgreSQL","Joins","Subqueries","CTEs","Window Functions","Views","Stored Procedures"]},
-  {label:"Data Analysis",items:["Pandas","Polars","NumPy","Matplotlib","Seaborn","Data Cleaning","EDA","Statistical Analysis"]},
-  {label:"BI & Excel",items:["Power BI","Excel (PivotTables, Slicers, XLOOKUP, Dashboards)"]},
+  {label:"Database",items:["MySQL","PostgreSQL","MongoDB"]},
+  {label:"Data Analysis",items:["Pandas","Polars","NumPy","Matplotlib","Seaborn"]},
+  {label:"BI & Excel",items:["Power BI","Excel ( PivotTables, Slicers, XLOOKUP, Dashboards )"]},
   {label:"GenAI",items:["LangChain","FAISS","RAG Pipelines","HuggingFace","LLM API Integration"]},
   {label:"Tools",items:["Git","GitHub","VS Code","Jupyter Notebook"]}
  ]
