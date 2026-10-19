@@ -6,9 +6,9 @@ const CONFIG={
  linkedin:"https://www.linkedin.com/in/nishant-chauhan-747356388",
  certificate:"https://www.theforage.com/",
  projects:[
-  {title:"AI Health Assistant",problem:"People struggle to turn health numbers into a usable diet plan.",did:"Streamlit app that calculates BMI, BMR, TDEE and daily calories, then builds diet plans with a LangChain and FAISS retrieval pipeline.",result:"Add your result here, for example response time or users tested.",tags:["Python","Streamlit","LangChain","FAISS"],live:"",code:"",img:""},
-  {title:"Student Database Analysis",problem:"Student records needed to be queried for clear answers.",did:"Wrote SQL queries covering joins, CTEs and window functions.",result:"Add your result here, for example number of questions answered.",tags:["SQL","MySQL"],live:"",code:"",img:""},
-  {title:"Coca-Cola Sales Analysis",problem:"Sales data needed to show what drives revenue.",did:"Cleaned the data and built an Excel and Power BI dashboard.",result:"Add your result here, for example top region or growth insight.",tags:["Excel","Power BI","SQL"],live:"",code:"",img:""}
+  {title:"AI Health Assistant",problem:"People struggle to turn health numbers into a usable diet plan.",did:"Streamlit app that calculates BMI, BMR, TDEE and daily calories, then builds diet plans with a LangChain and FAISS retrieval pipeline.",result:"Gives instant BMI, BMR, TDEE and daily calorie targets, then a personalised diet plan drawn from a nutrition knowledge base instead of generic advice.",tags:["Python","Streamlit","LangChain","FAISS"],live:"",code:"",img:""},
+  {title:"Student Database Analysis",problem:"Student records needed to be queried for clear answers.",did:"Wrote SQL queries covering joins, CTEs and window functions.",result:"A structured student database (primary keys, auto-increment IDs) where joins, CTEs, window functions, GROUP BY and CASE queries turn raw records into clear summaries.",tags:["SQL","MySQL"],live:"",code:"",img:""},
+  {title:"Coca-Cola Sales Analysis",problem:"Sales data needed to show what drives revenue.",did:"Cleaned the data and built an Excel and Power BI dashboard.",result:"Interactive dashboard with slicers and a timeline filter. It showed December as the top sales month and New York as the top state by units sold.",tags:["Excel","Power BI","SQL"],live:"",code:"",img:""}
  ],
 skillGroups:[
   {label:"Languages",items:["Python","SQL","Java (basic)","HTML","CSS","JavaScript"]},
