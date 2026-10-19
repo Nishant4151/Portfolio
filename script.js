@@ -4,7 +4,7 @@ const CONFIG={
  whatsapp:"917505297456", /* country code + number, digits only */
  github:"https://github.com/Nishant4151",
  linkedin:"https://www.linkedin.com/in/nishant-chauhan-747356388",
- certificate:"https://www.theforage.com/",
+ certificate:"Deloitte_Certificate.pdf",
  projects:[
   {title:"AI Health Assistant",problem:"People struggle to turn health numbers into a usable diet plan.",did:"Streamlit app that calculates BMI, BMR, TDEE and daily calories, then builds diet plans with a LangChain and FAISS retrieval pipeline.",result:"Gives instant BMI, BMR, TDEE and daily calorie targets, then a personalised diet plan drawn from a nutrition knowledge base instead of generic advice.",tags:["Python","Streamlit","LangChain","FAISS"],live:"",code:"",img:""},
   {title:"Student Database Analysis",problem:"Student records needed to be queried for clear answers.",did:"Wrote SQL queries covering joins, CTEs and window functions.",result:"A structured student database (primary keys, auto-increment IDs) where joins, CTEs, window functions, GROUP BY and CASE queries turn raw records into clear summaries.",tags:["SQL","MySQL"],live:"",code:"",img:""},
