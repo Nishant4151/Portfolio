@@ -13,12 +13,13 @@ const CONFIG={
   {title:"Expense Tracker Pro",problem:"Daily expenses are hard to follow when they are scattered across notes and apps.",did:"Built a full-stack web app with an HTML, CSS and JavaScript front end and a Node.js server, with expense records stored in MySQL.",result:"Users can add, edit, delete and categorize expenses, and SQL queries give category-wise and monthly spending summaries.",tags:["HTML","CSS","JavaScript","Node.js","MySQL"],live:"",code:"",img:""}
  ],
 skillGroups:[
-  {label:"Languages",items:["Python","SQL","Java (basic)","HTML","CSS","JavaScript"]},
+  {label:"Languages",items:["Python","SQL","C# (basic)","Java (basic)","HTML","CSS","JavaScript"]},
   {label:"Database",items:["MySQL","PostgreSQL","MongoDB"]},
   {label:"Data Analysis",items:["Pandas","Polars","NumPy","Matplotlib","Seaborn"]},
   {label:"BI & Excel",items:["Power BI","Excel ( PivotTables, Slicers, XLOOKUP, Dashboards )"]},
   {label:"GenAI",items:["LangChain","FAISS","RAG Pipelines","HuggingFace","LLM API Integration"]},
-  {label:"Tools",items:["Git","GitHub","VS Code","Jupyter Notebook"]}
+  {label:"Tools",items:["Git","GitHub","VS Code","Jupyter Notebook"]},
+  {label:"Core CS",items:["Data Structures & Algorithms (basic)","OOP Concepts"]}
  ]
 };
 /* ==== END EDIT AREA ==== */
